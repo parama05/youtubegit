@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 This is text2 file
-=======
-
->>>>>>> 55ec68f40eb1da96c796b62ea389bfe2633c1ffa
